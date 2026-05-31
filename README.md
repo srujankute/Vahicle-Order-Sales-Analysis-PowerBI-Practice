@@ -35,3 +35,6 @@ The layout separates operational metrics from long-term strategic trends, utiliz
 1. Clone or download this repository.
 2. Open `Vehicle Order Dashboard.pbix` using **Power BI Desktop**.
 3. If data sources require updates, adjust the file paths via **Transform Data > Data Source Settings** to point to the raw datasets located in the project folder.
+
+### 5. Scrennshots/Demos
+Example: ![Dashboard Preview](https://github.com/srujankute/Vahicle-Order-Sales-Analysis-PowerBI-Practice/blob/main/Vahicle%20Sales%20Dashboard.png).

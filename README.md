@@ -22,3 +22,19 @@ Developed high-performance Data Analysis Expressions (DAX) to drive dynamic time
 ```dax
 Total_Sales = SUMX(Fact_Orders, Fact_Orders[QuantityOrdered] * Fact_Orders[UnitPrice])
 
+### 4. UI/UX & Interactive Visualizations
+The layout separates operational metrics from long-term strategic trends, utilizing a professional color palette engineered for fast visual scanning.
+* **Global Sales Mapping:** Interactive map layers showing revenue and volume distribution across Japan, North America, Europe, and Africa.
+* **Advanced Interactivity:** Implemented custom slicers, parameters, and **Bookmarks** to switch views seamlessly between regional performance and vehicle segment breakdowns.
+* **Contextual Insights:** Configured custom report-page tooltips and drill-through paths to allow immediate inspection of specific vehicle lines from global summary charts.
+
+---
+
+## Technical Stack
+* **Power BI Desktop:** Core modeling, analytical calculations, and interface design.
+* **Power Query / M:** Data ingestion, structural shaping, and data type alignment.
+
+## Execution and View Instructions
+1. Clone or download this repository.
+2. Open `Vehicle_Order_Sales_Analysis.pbix` using **Power BI Desktop**.
+3. If data sources require updates, adjust the file paths via **Transform Data > Data Source Settings** to point to the raw datasets located in the project folder.

@@ -20,7 +20,7 @@ Built an optimized **Star Schema** to ensure high-performance filtering, slicing
 Developed high-performance Data Analysis Expressions (DAX) to drive dynamic time-intelligence and regional metrics:
 
 ```dax
-Total_Sales = SUMX(Fact_Orders, Fact_Orders[QuantityOrdered] * Fact_Orders[UnitPrice])
+Total_Sales = SUMX(Fact_Orders, Fact_Orders[QuantityOrdered] * Fact_Orders[UnitPrice])```
 
 ### 4. UI/UX & Interactive Visualizations
 The layout separates operational metrics from long-term strategic trends, utilizing a professional color palette engineered for fast visual scanning.

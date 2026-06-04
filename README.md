@@ -1,4 +1,4 @@
-# Vahicle-Order-Sales-Analysis-PowerBI-Practice
+# Vehicle-Order-Sales-Analysis-PowerBI-Practice
 
 An end-to-end Power BI business intelligence dashboard analyzing global vehicle order volumes, revenue distribution, and supply chain performance across key international markets including North America, Europe, Japan, and Africa.
 
